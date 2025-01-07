@@ -1,4 +1,4 @@
-# Analytics-Stock-Market-Prediction
+# Analytics - Stock Market Prediction
 
 Navigating stock market unpredictability, investment banks offer invaluable expertise in predicting trends for companies seeking to capitalize on market dynamics. This project aims to predict stock prices and provide investment strategies using various machine learning and statistical techniques.
 
