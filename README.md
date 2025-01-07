@@ -134,14 +134,8 @@ plt.show()
 
 ``` 
 ## Usage
-Run the provided Python scripts to preprocess the data, train the models, make predictions, and visualize the results.
-```bash
-python preprocess.py
-python train.py
-python predict.py
-python visualize.py
+Run the provided Python script to preprocess the data, train the models, make predictions, and visualize the results.
 
-``` 
 ## Results
 The models achieved an accuracy of 85% on the test data. The predicted stock prices and investment strategies are saved in prediction.csv.
 
